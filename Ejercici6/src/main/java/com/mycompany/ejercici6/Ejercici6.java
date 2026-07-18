@@ -1,8 +1,8 @@
-package com.mycompany.ejercicio6;
+package com.mycompany.ejercici6;
 
 import java.util.Scanner;
 
-public class Ejercicio6 {
+public class Ejercici6 {
 
     public static void main(String[] args) {
 
@@ -16,31 +16,31 @@ public class Ejercicio6 {
         switch (opcion) {
 
             case 1:
-                System.out.println("Lunes");
+                System.out.println("1.Lunes");
                 break;
 
             case 2:
-                System.out.println("Martes");
+                System.out.println("2.Martes");
                 break;
 
             case 3:
-                System.out.println("Miércoles");
+                System.out.println("3.Miércoles");
                 break;
 
             case 4:
-                System.out.println("Jueves");
+                System.out.println("4.Jueves");
                 break;
 
             case 5:
-                System.out.println("Viernes");
+                System.out.println("5.Viernes");
                 break;
 
             case 6:
-                System.out.println("Sábado");
+                System.out.println("6.Sábado");
                 break;
 
             case 7:
-                System.out.println("Domingo");
+                System.out.println("7.Domingo");
                 break;
 
             default:
